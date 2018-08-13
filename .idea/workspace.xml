@@ -137,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534191529255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534191753211" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -154,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.Scope">
     <configuration name="BakeCookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BakeCookies" />
       <module name="java-learn" />
@@ -176,6 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope" />
+      <module name="java-learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variables" />
       <module name="java-learn" />
@@ -188,9 +195,11 @@
       <item itemvalue="Application.BakeCookies" />
       <item itemvalue="Application.ControlFlow" />
       <item itemvalue="Application.Variables" />
+      <item itemvalue="Application.Scope" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scope" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.ControlFlow" />
         <item itemvalue="Application.BakeCookies" />
